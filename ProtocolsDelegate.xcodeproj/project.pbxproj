@@ -13,6 +13,8 @@
 		CE33CE862D76E70500B253E7 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CE33CE842D76E70500B253E7 /* Main.storyboard */; };
 		CE33CE882D76E70A00B253E7 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CE33CE872D76E70A00B253E7 /* Assets.xcassets */; };
 		CE33CE8B2D76E70A00B253E7 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CE33CE892D76E70A00B253E7 /* LaunchScreen.storyboard */; };
+		CE33CE952D76F67C00B253E7 /* CoutryCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE33CE942D76F67C00B253E7 /* CoutryCollectionViewCell.swift */; };
+		CE33CE972D7721D800B253E7 /* CountryCapitalInputVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE33CE962D7721D800B253E7 /* CountryCapitalInputVC.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +26,8 @@
 		CE33CE872D76E70A00B253E7 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		CE33CE8A2D76E70A00B253E7 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		CE33CE8C2D76E70A00B253E7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		CE33CE942D76F67C00B253E7 /* CoutryCollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CoutryCollectionViewCell.swift; sourceTree = "<group>"; };
+		CE33CE962D7721D800B253E7 /* CountryCapitalInputVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CountryCapitalInputVC.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +67,8 @@
 				CE33CE872D76E70A00B253E7 /* Assets.xcassets */,
 				CE33CE892D76E70A00B253E7 /* LaunchScreen.storyboard */,
 				CE33CE8C2D76E70A00B253E7 /* Info.plist */,
+				CE33CE942D76F67C00B253E7 /* CoutryCollectionViewCell.swift */,
+				CE33CE962D7721D800B253E7 /* CountryCapitalInputVC.swift */,
 			);
 			path = ProtocolsDelegate;
 			sourceTree = "<group>";
@@ -140,6 +146,8 @@
 			files = (
 				CE33CE832D76E70500B253E7 /* ViewController.swift in Sources */,
 				CE33CE7F2D76E70500B253E7 /* AppDelegate.swift in Sources */,
+				CE33CE952D76F67C00B253E7 /* CoutryCollectionViewCell.swift in Sources */,
+				CE33CE972D7721D800B253E7 /* CountryCapitalInputVC.swift in Sources */,
 				CE33CE812D76E70500B253E7 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
